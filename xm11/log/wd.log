@@ -1,0 +1,468 @@
+2024-04-11 22:06:20,424 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:54006 connected
+2024-04-11 22:06:30,149 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:54006 disconnected
+2024-04-11 22:06:36,591 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:54444 connected
+2024-04-11 22:15:22,192 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:52024 connected
+2024-04-11 22:15:35,134 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: N你号啊
+2024-04-11 22:15:45,025 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:50074 connected
+2024-04-11 22:15:46,092 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:50074 disconnected
+2024-04-11 22:15:49,328 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:57450 connected
+2024-04-11 22:16:02,796 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 你好啊
+2024-04-11 22:32:42,990 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:34020 connected
+2024-04-11 22:35:59,093 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:45320 connected
+2024-04-11 22:45:42,725 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:45320 disconnected
+2024-04-11 22:45:46,854 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:35458 connected
+2024-04-11 22:46:36,553 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:38834 connected
+2024-04-11 22:46:59,620 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:38834 disconnected
+2024-04-11 22:47:41,628 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 中国是第一的
+2024-04-11 22:48:38,717 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:60824 connected
+2024-04-11 22:57:13,062 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:53530 connected
+2024-04-11 22:57:16,783 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 1
+2024-04-11 22:57:16,783 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: 1
+2024-04-11 22:57:42,498 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: zg
+2024-04-11 22:57:42,498 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: zg
+2024-04-11 22:57:49,429 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:53530 disconnected
+2024-04-11 22:57:53,167 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:44814 connected
+2024-04-11 22:58:12,718 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:53548 connected
+2024-04-11 22:58:16,172 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 中国
+2024-04-11 22:58:32,908 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:37814 connected
+2024-04-11 22:58:40,299 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: hello
+2024-04-11 22:58:40,299 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: hello
+2024-04-11 22:59:02,982 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 最近
+2024-04-12 00:24:52,547 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:60274 connected
+2024-04-12 00:25:25,918 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:39286 connected
+2024-04-12 00:25:31,637 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: zhongg
+2024-04-12 00:25:31,637 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: zhongg
+2024-04-12 00:25:39,510 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: zhongguo
+2024-04-12 00:25:39,510 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: zhongguo
+2024-04-12 00:26:07,474 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: yan
+2024-04-12 00:26:07,474 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: yan
+2024-04-12 00:26:21,203 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 央企频道
+2024-04-12 00:26:21,203 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: 央企频道
+2024-04-12 00:26:28,698 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 1
+2024-04-12 00:26:28,698 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: 1
+2024-04-12 00:26:57,786 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 大家
+2024-04-12 00:26:57,787 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: 大家
+2024-04-12 00:27:38,050 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:54930 connected
+2024-04-12 00:27:42,328 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 中国
+2024-04-12 00:28:15,352 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:54930 disconnected
+2024-04-12 00:28:20,394 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:39926 connected
+2024-04-12 00:28:25,352 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: xi
+2024-04-12 00:28:25,353 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: xi
+2024-04-12 00:28:30,580 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 习近平
+2024-04-12 00:29:00,825 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:39926 disconnected
+2024-04-12 00:29:04,386 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:51092 connected
+2024-04-12 00:29:24,752 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:51092 disconnected
+2024-04-12 00:29:26,473 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:35026 connected
+2024-04-12 00:30:21,802 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:56750 connected
+2024-04-12 16:20:18,194 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:58522 connected
+2024-04-12 16:20:51,597 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:56246 connected
+2024-04-12 16:21:04,990 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 美国
+2024-04-12 16:21:27,269 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:56246 disconnected
+2024-04-12 16:21:32,143 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:37484 connected
+2024-04-12 16:21:37,339 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: meiguo
+2024-04-12 16:21:37,340 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: meiguo
+2024-04-12 16:40:07,746 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:49234 connected
+2024-04-12 16:42:03,588 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:36122 connected
+2024-04-12 16:46:33,076 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:46124 connected
+2024-04-12 16:46:39,913 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 美国
+2024-04-12 16:47:14,448 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: zho
+2024-04-12 16:47:14,448 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: zho
+2024-04-12 16:47:19,393 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 中国
+2024-04-12 17:32:03,194 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:33782 connected
+2024-04-12 17:32:09,588 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 回国
+2024-04-12 22:04:33,423 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:45240 connected
+2024-04-12 22:04:37,948 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:45240 disconnected
+2024-04-12 22:04:40,246 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:34200 connected
+2024-04-12 22:06:14,762 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:49034 connected
+2024-04-12 22:06:25,961 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: de
+2024-04-12 22:06:25,962 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: de
+2024-04-12 22:06:45,021 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 邓圣零
+2024-04-12 22:06:45,021 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: 邓圣零
+2024-04-12 22:06:54,297 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:49034 disconnected
+2024-04-12 22:06:55,873 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:45016 connected
+2024-04-12 22:07:02,617 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 爸爸
+2024-04-12 22:12:33,197 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: ch
+2024-04-12 22:12:37,013 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 陈俊
+2024-04-12 22:17:35,899 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:53864 connected
+2024-04-12 22:18:00,617 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: hello
+2024-04-12 22:18:00,618 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: hello
+2024-04-12 22:18:08,369 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: hi
+2024-04-12 22:18:08,369 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: hi
+2024-04-12 22:18:15,149 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 出生
+2024-04-12 22:21:40,001 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: key
+2024-04-12 22:21:40,001 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: key
+2024-04-12 22:21:46,305 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: zhongguo
+2024-04-12 22:21:46,305 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: zhongguo
+2024-04-12 22:21:50,153 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 中国
+2024-04-12 22:22:42,064 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 邓圣霖
+2024-04-12 22:23:16,705 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 你有着
+2024-04-12 22:23:26,061 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:53864 disconnected
+2024-04-12 22:23:32,360 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:59784 connected
+2024-04-12 22:23:37,884 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 2
+2024-04-12 22:23:37,884 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: 2
+2024-04-12 22:23:42,241 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: nihao
+2024-04-12 22:23:42,241 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: nihao
+2024-04-12 22:23:47,336 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: China
+2024-04-12 22:23:47,336 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: China
+2024-04-12 22:39:23,633 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: \
+2024-04-12 22:39:23,633 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: \
+2024-04-12 22:39:40,470 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:37562 connected
+2024-04-12 22:40:42,484 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: hello
+2024-04-12 22:40:42,484 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: hello
+2024-04-12 22:40:48,700 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 陈国耀
+2024-04-12 22:41:27,726 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:37562 disconnected
+2024-04-13 20:08:20,668 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:53982 connected
+2024-04-13 20:08:32,727 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: zho
+2024-04-13 20:08:32,727 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: zho
+2024-04-13 20:08:40,330 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 中国
+2024-04-13 20:08:58,503 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:53982 disconnected
+2024-04-16 20:13:26,046 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:38868 connected
+2024-04-16 20:13:43,229 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 中国人才是最牛
+2024-04-16 20:14:58,123 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 邓
+2024-04-16 20:15:11,177 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 中国人
+2024-04-16 20:15:59,512 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:38868 disconnected
+2024-04-16 22:27:24,353 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:55220 connected
+2024-04-16 22:27:50,543 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:55220 disconnected
+2024-04-16 22:27:51,728 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:49230 connected
+2024-04-16 22:34:03,769 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:49230 disconnected
+2024-04-16 22:35:53,127 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:51424 connected
+2024-04-16 22:36:06,839 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:51424 disconnected
+2024-04-16 22:36:11,214 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:48032 connected
+2024-04-16 22:36:29,118 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:48032 disconnected
+2024-04-19 18:59:50,051 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:35308 connected
+2024-04-21 16:46:18,876 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:60998 connected
+2024-04-21 16:46:51,809 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: key
+2024-04-21 16:46:51,809 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: key
+2024-04-21 16:46:58,568 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: key
+2024-04-21 16:46:58,569 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: key
+2024-04-21 16:47:00,731 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:60998 disconnected
+2024-04-21 16:48:32,899 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:60300 connected
+2024-04-21 16:48:54,428 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:60300 disconnected
+2024-04-21 16:51:05,110 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:35290 connected
+2024-04-21 16:51:07,340 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:35290 disconnected
+2024-04-21 17:19:04,632 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:37556 connected
+2024-04-21 17:19:09,942 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: deng
+2024-04-21 17:19:09,942 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: deng
+2024-04-21 17:19:12,884 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:37556 disconnected
+2024-04-21 17:19:26,791 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:42120 connected
+2024-04-21 17:19:31,798 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 等升龙
+2024-04-21 17:19:31,798 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: 等升龙
+2024-04-21 17:19:37,573 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 中国
+2024-04-21 17:20:10,070 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:42120 disconnected
+2024-04-21 17:27:16,144 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:46958 connected
+2024-04-21 17:27:26,317 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: deng
+2024-04-21 17:27:26,318 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: deng
+2024-04-21 17:27:29,514 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 邓
+2024-04-21 17:27:46,894 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:46958 disconnected
+2024-04-21 17:28:09,566 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:42602 connected
+2024-04-21 17:28:22,229 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 美国人的吉吉
+2024-04-22 22:25:15,733 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:46966 connected
+2024-04-22 22:25:21,068 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: key
+2024-04-22 22:25:21,068 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: key
+2024-04-22 22:25:33,765 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: hello
+2024-04-22 22:25:33,765 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: hello
+2024-04-22 22:26:13,356 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: ni
+2024-04-22 22:26:13,357 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: ni
+2024-04-22 22:26:17,982 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 你好
+2024-04-22 22:26:56,004 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: WO
+2024-04-22 22:26:56,004 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: WO
+2024-04-22 22:27:06,205 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 我ide
+2024-04-22 22:27:28,146 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 中国人
+2024-04-22 22:27:56,473 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: wb
+2024-04-22 22:27:56,473 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: wb
+2024-04-22 23:27:37,941 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: ZG
+2024-04-22 23:27:37,942 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: ZG
+2024-04-22 23:28:04,629 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 中国人
+2024-04-22 23:28:31,269 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 美国人
+2024-04-22 23:28:49,433 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 法国人
+2024-04-22 23:30:54,737 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 中国人
+2024-04-22 23:32:24,645 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 美国人的
+2024-04-22 23:32:34,460 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: [A[A
+2024-04-22 23:32:34,460 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: [A[A
+2024-04-22 23:32:37,829 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 1
+2024-04-22 23:32:37,829 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.40]
+	keyRecommender miss: 1
+2024-04-22 23:47:32,752 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:46966 disconnected
+2024-04-22 23:56:13,763 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:54022 connected
+2024-04-22 23:56:25,829 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 你到底想说啥吗
+2024-04-22 23:57:16,428 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: ni你到底想说啥吗
+2024-04-22 23:57:16,430 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: ni你到底想说啥吗
+2024-04-22 23:57:31,220 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 你到底先后说
+2024-04-22 23:57:42,069 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 你到底向栓
+2024-04-22 23:57:55,565 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 你到底想说什么
+2024-04-22 23:58:12,490 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:54022 disconnected
+2024-04-22 23:59:49,919 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:35350 connected
+2024-04-23 00:07:51,466 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 你到底在干什么
+2024-04-23 00:15:09,305 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: nihijhihi
+2024-04-23 00:15:09,306 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: nihijhihi
+2024-04-23 00:23:38,133 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:35350 disconnected
+2024-04-23 00:23:38,824 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:54492 connected
+2024-04-23 00:23:43,372 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 你好
+2024-04-23 00:53:50,898 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:44330 connected
+2024-04-23 00:54:04,386 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 中国人
+2024-04-23 01:05:33,378 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:40730 connected
+2024-04-23 01:06:08,330 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 你好
+2024-04-23 01:06:18,733 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 你好
+2024-04-23 01:20:57,468 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:55894 connected
+2024-04-23 01:21:03,563 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: nihao你好
+2024-04-23 01:21:03,563 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: nihao你好
+2024-04-23 01:21:08,313 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 你好啊
+2024-04-23 01:24:53,973 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:38552 connected
+2024-04-23 01:29:01,598 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:60584 connected
+2024-04-23 01:29:04,446 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 你好
+2024-04-23 01:33:48,721 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:42076 connected
+2024-04-23 01:34:16,940 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 2
+2024-04-23 01:34:16,941 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: 2
+2024-04-23 03:50:46,282 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:59770 connected
+2024-04-23 03:50:48,750 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 2
+2024-04-23 03:50:48,750 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.43]
+	keyRecommender miss: 2
+2024-05-07 03:11:28,973 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:37474 connected
+2024-05-07 03:16:42,208 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:37474 disconnected
+2024-05-07 03:16:44,111 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:46778 connected
+2024-05-07 03:16:49,925 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: zg
+2024-05-07 03:16:49,925 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.43]
+	keyRecommender miss: zg
+2024-05-07 03:17:17,893 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:46778 disconnected
+2024-05-07 03:20:41,111 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:49858 connected
+2024-05-07 03:20:45,380 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: zg
+2024-05-07 03:20:45,380 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.43]
+	keyRecommender miss: zg
+2024-05-07 03:20:54,551 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 中国
+2024-05-07 03:25:11,234 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 中国
+2024-05-07 03:41:41,322 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:55146 connected
+2024-05-07 03:42:09,069 wd [INFO] [src/online/EchoServer.cpp:onConnection.46]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:42890 connected
+2024-05-07 05:48:22,232 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:42890 disconnected
+2024-05-07 05:48:23,913 wd [INFO] [src/online/EchoServer.cpp:onClose.63]
+	[tcp] (local)127.0.0.1:1234 --> (peer)127.0.0.1:55146 disconnected
+2024-05-07 05:48:38,221 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 厉害
+2024-05-07 05:50:59,544 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: c
+2024-05-07 05:50:59,544 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.43]
+	keyRecommender miss: c
+2024-05-07 05:51:03,288 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: cai
+2024-05-07 05:51:03,289 wd [INFO] [src/online/KeyRecommander.cpp:doQuery.43]
+	keyRecommender miss: cai
+2024-05-07 05:51:09,988 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 菜鸡
+2024-05-07 06:02:26,007 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: mei
+2024-05-07 06:02:26,017 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: mei
+2024-05-07 06:02:29,598 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 美食
+2024-05-07 06:02:55,666 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: hao
+2024-05-07 06:02:55,668 wd [INFO] [src/online/WebPageSearcher.cpp:doQuery.126]webPageSearcher miss: hao
+2024-05-07 06:02:59,074 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 好吃
+2024-05-07 06:43:50,103 wd [INFO] [src/online/MyTask.cpp:process.44]
+	redis miss: 中国
+2024-05-07 06:45:06,978 wd [INFO] [src/online/MyTask.cpp:process.60]
+	LRU miss: 猪肉
