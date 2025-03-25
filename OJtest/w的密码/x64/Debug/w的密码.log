@@ -1,4 +1,0 @@
-﻿  main.cpp
-E:\visual\project\Project1\w的密码\main.cpp(11,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\visual\project\Project1\w的密码\main.cpp(14,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  w的密码.vcxproj -> E:\visual\project\Project1\x64\Debug\w的密码.exe

@@ -1,5 +1,0 @@
-﻿  main.cpp
-E:\visual\project\Project1\浮点数加法\main.cpp(25,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\visual\project\Project1\浮点数加法\main.cpp(57,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\visual\project\Project1\浮点数加法\main.cpp(57,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  浮点数加法.vcxproj -> E:\visual\project\Project1\x64\Debug\浮点数加法.exe
